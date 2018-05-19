@@ -1,3 +1,3 @@
-function addElementToEndOfArray() {
+function addElementToEndOfArray(array, element) {
   
 }
