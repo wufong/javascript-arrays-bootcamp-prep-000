@@ -1,3 +1,4 @@
 function addElementToEndOfArray(array, element) {
-  var newarray = 
+  var newarray = array.push(element)
+  return newarray
 }
