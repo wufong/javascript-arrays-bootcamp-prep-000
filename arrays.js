@@ -1,5 +1,5 @@
 function addElementToBeginningOfArray(array, element) {
-  var newarray = array
+  var newarray = [array];
   newarray = array.push(element);
   return newarray;
 }
